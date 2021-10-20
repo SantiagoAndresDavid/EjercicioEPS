@@ -1,0 +1,8 @@
+C:\Users\santi\Documents\Programacion3\EjercicioEPS\Eps\Data\bin\Debug\Data.dll
+C:\Users\santi\Documents\Programacion3\EjercicioEPS\Eps\Data\bin\Debug\Data.pdb
+C:\Users\santi\Documents\Programacion3\EjercicioEPS\Eps\Data\bin\Debug\Entity.dll
+C:\Users\santi\Documents\Programacion3\EjercicioEPS\Eps\Data\bin\Debug\Entity.pdb
+C:\Users\santi\Documents\Programacion3\EjercicioEPS\Eps\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\santi\Documents\Programacion3\EjercicioEPS\Eps\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\santi\Documents\Programacion3\EjercicioEPS\Eps\Data\obj\Debug\Data.dll
+C:\Users\santi\Documents\Programacion3\EjercicioEPS\Eps\Data\obj\Debug\Data.pdb
